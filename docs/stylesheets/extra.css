@@ -3,3 +3,26 @@
   --md-primary-fg-color--light: #2F4F4F;
   --md-primary-fg-color--dark: #2F4F4F;
 }
+
+/* Applying background colors only to the first column */
+.md-typeset__table table:not([class]) tbody tr:nth-child(1) td:first-child {
+    background-color: #008000; /* Dark Green for the first row */
+}
+
+.md-typeset__table table:not([class]) tbody tr:nth-child(2) td:first-child {
+    background-color: #90ee90; /* Light Green for the second row */
+}
+
+.md-typeset__table table:not([class]) tbody tr:nth-child(3) td:first-child {
+    background-color: #ffff00; /* Yellow for the third row */
+}
+
+.md-typeset__table table:not([class]) tbody tr:nth-child(4) td:first-child {
+    background-color: #ff0000; /* Red for the fourth row */
+}
+
+
+.md-typeset__table table:not([class]) tbody tr td:first-child {
+    font-size: larger; 
+    color: black; 
+}

@@ -29,6 +29,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
 nav:
     - Home: index.md
     - Getting Started:
@@ -36,11 +38,12 @@ nav:
         - Draw your First Segment: getting-started/draw-first-seg.md
         - Drawing Multiple Segments: getting-started/analyzing-multiple-segments.md
         - Interpreting the Results: getting-started/Interpreting-the-results.md
+        - Download and Use the Results: getting-started/download-and-use.md
     - How it works:
         - Level of Traffic Stress (LTS): how-it-works/lts.md
         - Islands of Connectivity : how-it-works/islands.md
+        - What about Sidewalks? : how-it-works/sidewalk.md
     - Scaling up:
         - Uploading a GeoJSON: upload/Uploading-geometry.md
 extra_css:
   - stylesheets/extra.css
-
