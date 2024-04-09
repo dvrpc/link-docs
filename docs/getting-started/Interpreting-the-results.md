@@ -10,7 +10,7 @@ Attributes are defined in the Study Results Definitations section below.
 
 
 ### Study Results Definitions
-- **Miles of low-stress islands**: The total mileage of connected low-stress (LTS 1 and 2 in the bicycle analysis) areas, including the drawn or uploaded facilities being analyzed
+- **Miles of low-stress islands**: The total mileage of connected low-stress (LTS 1 and 2 in the bicycle analysis) areas, including the drawn or uploaded facilities being analyzed.
 - **Total population**: The estimated number of people living in the census tracts touched by the connected areas, as indicated by the ACS 5-year estimates (2017-2021). The polygon highlighting the low-stress areas connected by the proposed facility improvements is the boundary for inclusion in these estimates. If the polygon covers the entire census tract,  all persons living in that tract are counted. If the polygon covers a portion of a census tract, the proportion of the population counted matches the proportion of the tract area covered by the polygon. The population subsets below are calculated using the same method.
 - **Disabled Population**: The estimated number of persons with one or more physical and/or mental disabilities living in the area connected by the analyzed project.
 - **Ethnic Minorities**: The estimated number of persons identifying themselves as being of Hispanic or Spanish origin living in the area connected by the analyzed project.
@@ -26,7 +26,8 @@ Attributes are defined in the Study Results Definitations section below.
 - **Bicyclist and Pedestrian Crashes in Study Buffer**: 
 - **Essential Services**: The number of essential service facilities within the area connected by the analyzed project. Essential services include grocery stores, schools, medical facilites, and activity centers for Seniors or Disabled.
 - **Rail Stations**: Number and type of rail stations within the area connected by the analyzed project. 
-- **Greater than 300 miles of connected low-stress segments**: For areas such as Philadelphia or Trenton, where islands are extremely large. In these cases, islands are constrained to a 15-minute walk/bikeshed (depending on network type)
+- **Greater than 300 miles of connected low-stress segments**: For areas such as Philadelphia or Trenton, where islands are extremely large. In these cases, islands are constrained to a 15-minute walk/bikeshed (depending on network type). 
+This means that all stats are also constrained to this walk/bikeshed, except for mileage of low-stress islands, which is not reduced.
 
 ## Study Options
 
