@@ -28,4 +28,9 @@ Once you have a GeoJSON of lines in the correct projection:
 Results can be reloaded into the map through the My Studies panel, by clicking 'View Study'.
 
 
+!!! note
+
+    Your segments will be run exactly as they are segmented.
+    In other words, each row in your attribute table in GIS will be run separately, 
+    unless you combine your segments in LINK, or 'dissolve' them in GIS to group them as you want them to be analyzed.
 
