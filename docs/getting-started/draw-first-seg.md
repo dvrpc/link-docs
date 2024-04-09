@@ -12,7 +12,7 @@ If it's your first time using the tool, you might consider drawing one segment, 
     
 ## To draw a single study segment:
 - Zoom to your study area
-- Select the Linestring tool
+- Select the Linestring tool ![linestring](../assets/line.svg){: style="height:20px;width:20px"}
 - Click on the map to draw a line representing the proposed bicycle or pedestrian facility improvement. Double-click to finish.
  The line can be along an existing roadway to represent an on-road bicycle facility or drawn between existing roadways to represent an off-road trail. In the Pedestrian tool, lines can be drawn anywhere to represent sidewalks or crosswalks.
 - Click the Analyze button
