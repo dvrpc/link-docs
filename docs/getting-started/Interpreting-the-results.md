@@ -23,7 +23,8 @@ Attributes are defined in the Study Results Definitations section below.
 - **Youth**: The estimated number of persons under the age of 18 living in the area connected by the analyzed project.
 - **Nearby Circuit Trails**: Number and status of circuit trails within the area connected by the analyzed project.
 - **Jobs**: The estimated number of jobs in the census tracts touched by the connected areas, as indicated by the American Census Bureau’s LODES 8 dataset (2020). The polygon highlighting the low-stress areas connected by the proposed facility improvements is the boundary for inclusion in these estimates. If the polygon covers the entire census tract,  all persons living in that tract are counted. If the polygon covers a portion of a census tract, the proportion of the population counted matches the proportion of the tract area covered by the polygon. 
-- **Bicyclist and Pedestrian Crashes in Study Buffer**: 
+- **Bicyclist and Pedestrian Crashes in Study Buffer**: Represents crashes from the last 5 years. This datapoint differs slightly from others, as it only represents crashes within the buffer around your study segment, not in all of the proximate low-stress islands. Note that very long segments will not work
+for this metric, as this data is pulled from the DVRPC's crash API, and very long GeoJSON URL strings to the crash API are not supported.  
 - **Essential Services**: The number of essential service facilities within the area connected by the analyzed project. Essential services include grocery stores, schools, medical facilites, and activity centers for Seniors or Disabled.
 - **Rail Stations**: Number and type of rail stations within the area connected by the analyzed project. 
 - **Greater than 300 miles of connected low-stress segments**: For areas such as Philadelphia or Trenton, where islands are extremely large. In these cases, islands are constrained to a 15-minute walk/bikeshed (depending on network type). 
