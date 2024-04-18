@@ -4,6 +4,9 @@ you can upload them directly to the tool and do not need to re-draw them manuall
 
 To do this, you need a **GeoJSON**, which is similar to a shapefile, but optimized for the web. You can turn a shapefile, or any other spatial data, into a GeoJSON. 
 
+If you'd like to pre-name your segments, you should add a 'name' field to your GeoJSON. Otherwise, you will only be able to give them a bulk generic name when uploading. 
+But if you add a 'name' field, LINK will use those segment names in your outputs, which is helpful when reviewing a CSV output from LINK or when joining data. 
+
 !!! note
 
     The GeoJSON **must** be in the EPSG: 4326 projection (WGS 1984). 
