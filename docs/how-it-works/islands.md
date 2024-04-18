@@ -40,3 +40,7 @@ improved.
 ![Jobs and transit stations shown on map and labeled](../assets/explainer_diagrams/d8.png)
 
 
+!!! note 
+    You may sometimes see a 'blob' shape that extends beyond the street network. LINK folds in certain land uses (e.g., school parking lots, parks, etc..) 
+    in order to more effectively capture proximate uses. So for example, if a school is setback from a high-stress road, LINK will grab both the parking lot and the 
+    school land use and include the school as part of what the new segment connects. 
