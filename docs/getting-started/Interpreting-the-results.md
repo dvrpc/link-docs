@@ -28,7 +28,7 @@ for this metric, as this data is pulled from the DVRPC's crash API, and very lon
 - **Essential Services**: The number of essential service facilities within the area connected by the analyzed project. Essential services include grocery stores, schools, medical facilites, and activity centers for Seniors or Disabled.
 - **Rail Stations**: Number and type of rail stations within the area connected by the analyzed project. 
 - **Greater than 300 miles of connected low-stress segments**: For areas such as Philadelphia or Trenton, where islands are extremely large. In these cases, islands are constrained to a 15-minute walk/bikeshed (depending on network type). 
-This means that all stats are also constrained to this walk/bikeshed, except for mileage of low-stress islands, which is not reduced.
+This means that all stats are also constrained to this walk/bikeshed.
 
 ## Study Options
 
