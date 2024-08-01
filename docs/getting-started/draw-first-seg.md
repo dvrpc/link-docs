@@ -28,4 +28,4 @@ To view the results of the analysis, you can open 'My Studies', where you'll see
 
 If you decide to start a different study entirely, make sure you click 'Clear', otherwise the lines on the map will be part of your new study as well.
 
-If you want to come back to a study you've already analyzed, you can click 'View Study' under 'My Studies', and the geometry will be re-loaded, and can be edited and re-run as needed.
+If you want to come back to a study you've already analyzed, you can click 'View Study' under 'My Studies', under the actions button, and the geometry will be re-loaded, and can be edited and re-run as needed.
