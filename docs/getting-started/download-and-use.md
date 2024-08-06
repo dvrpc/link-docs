@@ -1,9 +1,7 @@
-So you've created this study, and you want to share it with the world, or bring it into GIS or Excel, or put the results in a grant application.
-
-To do so, you have a couple of options.
+Once a study has been created there are several options that allow the data to be shared or downloaded for use in Excel or GIS:
 
 ## Sharing a study
-Under 'My Studies', you can toggle a button that says 'Make study public'. Once you turn it on, the text turns into a link, that you can open and share with anyone. 
+Under 'My Studies', you can toggle a button that says 'Make study public'. Once you turn it on, the text turns into a link that you can open and share with anyone. 
 The link has a map, that nobody else can edit, and a table, with the data from the study. 
 
 You can also print the page to PDF from your browser, if you'd like to put it in a report. The process to do so varies by browser.
@@ -18,4 +16,4 @@ jobs connected, miles of low stress islands, or any other piece of data.
 You can download a GeoJSON of any individual study, which will include both the segments you analyzed, as well as the blobs and buffers that are associated with 
 that project. You can do that under the 'actions' button on the left side of the My Studies table. 
 
-You can upload the "segments" geojson back into LINK, if desired.
+You can upload the "segments" GeoJSON back into LINK, if desired.

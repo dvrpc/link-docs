@@ -1,5 +1,5 @@
 
-On the bicycle side, Link is based on the Level of Traffic Stresss (LTS). LTS is a road classification scheme based on the estimated comfort of bicyclists in the traffic stream. 
+On the bicycle side, LINK uses the Level of Traffic Stress (LTS) network. LTS is a road classification scheme based on the estimated comfort of bicyclists in the traffic stream. 
 ![Image of LTS classification, showing cyclists on varying levels of stressful roads](../assets/LTS.png)
 
 
@@ -17,13 +17,13 @@ Generally, the higher the LTS, the more dangerous or, the greater the perceived 
 
 
 
-DVRPC’s LTS assignment is based on the number of lanes, effective vehicle speed, and the presence and type of bicycle facility along the road segment. Surveys have shown that the Interested by Concerned group is the largest; therefore, they are often the target audience for bicycle infrastructure planning.
+DVRPC’s LTS assignment is based on the number of lanes, effective vehicle speed, and the presence and type of bicycle facility along the road segment. Surveys have shown that the Interested but Concerned group is the largest; therefore, they are often the target audience for bicycle infrastructure planning.
 
 
 ![Table of DVRPCs LTS assignment](../assets/DVRPC_LTSTable.png)
 
 LINK _assumes_ that any improvements you draw on an LTS 3 or 4 road represent a facility that, if built, would reduce the stress level to a 1 or a 2 (i.e., targeting the Interested, but Concerned group). 
 So while you might be able to draw a segment on an LTS 4 road and get some information about its connectivity benefit, 
-if you are planning that segment to be sharrows or an unprotected bike lane, you are not actually reducing the stress level, and therefore not actually making the connection any safer or more viable for all users. 
+if you are planning that segment to be sharrows or a conventional bike lane, you are not reducing the stress level, and therefore not making the connection safer or more viable for all cyclist types. 
 
-In short, the onus is on you as a facility designer to design the safest and least stressful study that you can. 
+In short, the onus is on you as a facility designer to design the safest and least stressful bike facility that you can. 

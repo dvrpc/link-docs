@@ -8,7 +8,7 @@
 - In the pop-up window, type a name for your project and click Submit.
 - Click the My Studies button at the top to open the panel 
 
-When multiple line segments are drawn and analyzed without being combined, results will appear in the My Studies panel for each segment individually. They will have the same name, and Link will append a number to the end of the name to differentiate. Only the first segment and its corresponding low-stress polygon will appear on the map.
+When multiple line segments are drawn and analyzed without being combined, results will appear in the My Studies panel for each segment individually. The segments will have the same name, and LINK will append a number to the end of the name to differentiate. Only the first segment and its corresponding low-stress polygon will appear on the map.
 
 Click the Clear button to remove the results from the map.  Results can be reloaded into the map through the My Studies panel. 
 
@@ -20,11 +20,11 @@ This method is best used to analyze the impact of a bicycle plan, multiple piece
 - Click on the map to draw a line representing the proposed bicycle or pedestrian facility improvement. Double-click to finish.
 The line can be along an existing roadway to represent an on-road bicycle facility or drawn between existing roadways to represent an off-road trail. In the Pedestrian tool, lines can be drawn anywhere to represent sidewalks or crosswalks. 
 - Select the Draw a line tool again to draw as many line segments as desired.
-- Once all line segments have been drawn, click the Select all drawn segments button (**S**) to highlight all the line segments. Vertices appear along selected line segments
+- Once all line segments have been drawn, click the Select all drawn segments button (**S**) to highlight all the line segments. Vertices will appear along the selected line segments.
 
 Click the Combine button ![linestring](../assets/combine.svg){: style="height:20px;width:20px"}
  
-To add more segments, click the Uncombine button ![linestring](../assets/uncombine.svg){: style="height:20px;width:20px"}, draw and select additional segments, and click the Combine button again 
+To add more segments, click the Uncombine button ![linestring](../assets/uncombine.svg){: style="height:20px;width:20px"}, draw and select additional segments, and click the Combine button again. 
 
 - Click the Analyze button  
 
