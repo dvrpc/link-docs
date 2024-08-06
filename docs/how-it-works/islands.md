@@ -34,7 +34,7 @@ is to say, we can estimate how many people were previously on an
 ![Islands labeled with population](../assets/explainer_diagrams/d7.png)
 
 We can also estimate the number of jobs, transit stations, essential
-services, or nearby trail that could be connected if this segment was
+services, or nearby trails that could be connected if this segment was
 improved.
 
 ![Jobs and transit stations shown on map and labeled](../assets/explainer_diagrams/d8.png)

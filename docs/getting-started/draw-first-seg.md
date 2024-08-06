@@ -8,7 +8,7 @@ If it's your first time using the tool, you might consider drawing one segment, 
 
     Are you interested in getting information for a bike project, or a pedestrian project?
     The tool is in 'bike mode' by default, but you can switch to walk mode using the toggle in LINK's toolbar.
-    The step-by-step below applies to both bike mode or pedestrian mode.
+    The step-by-step guide below applies to both bike mode or pedestrian mode.
     
 ## To draw a single study segment:
 - Zoom to your study area
