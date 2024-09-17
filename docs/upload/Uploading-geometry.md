@@ -23,13 +23,13 @@ Make sure that the 'name' column is of the data type 'string' or 'text,' others 
 
 Once a GeoJSON of lines in the correct projection is ready:
 
-- Click the Upload existing line(s) button
-- Select the GeoJSON file
-- Once uploaded, the line or lines appear on the map. If multiple lines have been uploaded, decide whether to run them individually, or to run them as one (to see the total benefit of building all of them)
+- Click the Upload existing line(s) button.
+- Select the GeoJSON file.
+- Once uploaded, the line or lines appear on the map. If multiple lines have been uploaded, decide whether to run them individually, or to run them as one (to see the total benefit of building all of them).
     - If you run individually, make sure the lines are uncombined by clicking the S button to select all, then the uncombine button.
     - If the lines are run them as one project, click the S button to select all segments, then the combine button to combine them into one feature. 
 - Click Analyze, name the study, and click Submit. Results will appear in the My Studies panel.
-- Click the My Studies button at the top to open the panel 
+- Click the My Studies button at the top to open the panel. 
 - Click the Clear button to remove the results from the map before making another study or uploading additional features. 
 Results can be reloaded into the map through the My Studies panel, by clicking View Study.
 
