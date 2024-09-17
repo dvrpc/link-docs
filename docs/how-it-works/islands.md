@@ -1,4 +1,4 @@
-This tool uses the concept of 'islands of connectivity', the idea that low-stress streets are 'islands', separated by higher stress roadways. 
+This tool uses the concept of 'islands of connectivity,' the idea that low-stress streets are 'islands,' separated by higher stress roadways. 
 
 Consider the following example. 
 The yellow, or relatively high-stress, segment (LTS 3) is an arterial
@@ -29,7 +29,7 @@ totaling the number of people in each island, along with the people
 who actually live along the segment, a high level estimate for the
 number of people connected via the new segment can be achieved. That
 is to say, we can estimate how many people were previously on an
-"island", but could now bike to other segments.
+"island," but could now bike to other segments.
 
 ![Islands labeled with population](../assets/explainer_diagrams/d7.png)
 

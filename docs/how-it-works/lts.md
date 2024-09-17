@@ -20,6 +20,7 @@ Generally, the higher the LTS, the more dangerous or, the greater the perceived 
 DVRPC’s LTS assignment is based on the number of lanes, effective vehicle speed, and the presence and type of bicycle facility along the road segment. Surveys have shown that the Interested but Concerned group is the largest; therefore, they are often the target audience for bicycle infrastructure planning.
 
 
+Use your browser's zoom tools, or open this table in a new tab by right clicking if it is too small.
 ![Table of DVRPCs LTS assignment](../assets/DVRPC_LTSTable.png)
 
 LINK _assumes_ that any improvements you draw on an LTS 3 or 4 road represent a facility that, if built, would reduce the stress level to a 1 or a 2 (i.e., targeting the Interested, but Concerned group). 
