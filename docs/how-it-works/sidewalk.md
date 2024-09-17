@@ -35,7 +35,7 @@ The final segment would connect 40 people.
 
 ![A new blue segment drawn between two islands, representing a new sidewalk or marked crosswalk](../assets/explainer_diagrams/d16.png)
 
-If all of these segments were combined in the tool (see 'Drawing Multiple Segments,') 720 people would be connected. 
+If all of these segments were combined in the tool (see Drawing Multiple Segments), 720 people would be connected. 
 If left uncombined in the tool and analyzed, each discrete segment would be summed, which is useful for prioritization, but should not be used to aggregate, or it will include double counting.  
 
 ![All blue segments shown on the map, connecting all of the islands in the extent.](../assets/explainer_diagrams/d17.png)
