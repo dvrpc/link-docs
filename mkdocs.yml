@@ -45,6 +45,8 @@ nav:
         - What about Sidewalks? : how-it-works/sidewalk.md
     - Scaling up:
         - Uploading a GeoJSON: upload/Uploading-geometry.md
+    - Data:
+        - Sources: data/sources.md
     - Contact us:
         - Contact: contact/contact.md
 extra_css:
