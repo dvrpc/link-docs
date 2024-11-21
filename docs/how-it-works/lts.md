@@ -1,6 +1,7 @@
 
 On the bicycle side, LINK uses the Level of Traffic Stress (LTS) network. LTS is a road classification scheme based on the estimated comfort of bicyclists in the traffic stream. 
 ![Image of LTS classification, showing cyclists on varying levels of stressful roads](../assets/LTS.png)
+Source: NJDOT Technology Transfer, 2021
 
 
 The table below summarizes LTS in terms of the cyclist type that would be comfortable on certain levels and the characteristics of those levels. 
