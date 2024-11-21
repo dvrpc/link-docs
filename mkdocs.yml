@@ -33,7 +33,7 @@ markdown_extensions:
   - md_in_html
 nav:
     - Home: index.md
-    - Getting Started:
+    - Creating Studies:
         - Create an account: getting-started/create-account.md
         - Draw your First Segment: getting-started/draw-first-seg.md
         - Drawing Multiple Segments: getting-started/analyzing-multiple-segments.md

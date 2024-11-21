@@ -24,7 +24,7 @@
         <td>2019-2023</td>
       </tr>
       <tr>
-        <td>Transit Data</td>
+        <td>Transit Stops and Routes</td>
         <td>NJTransit and SEPTA</td>
         <td>2023</td>
       </tr>
