@@ -28,4 +28,4 @@ LINK _assumes_ that any improvements you draw on an LTS 3 or 4 road represent a 
 So while you might be able to draw a segment on an LTS 4 road and get some information about its connectivity benefit, 
 if you are planning that segment to be sharrows or a conventional bike lane, you are not reducing the stress level, and therefore not making the connection safer or more viable for all cyclist types. 
 
-In short, the onus is on you as a facility designer to design the safest and least stressful bike facility that you can. 
+The facility designer and roadway owner are responsible for selecting the safest and least stressful bike facility; LINK does not recommend facility type.
