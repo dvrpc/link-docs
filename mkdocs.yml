@@ -48,6 +48,6 @@ nav:
     - Data:
         - Sources: data/sources.md
     - Contact us:
-        - Contact: contact/contact.md
+      - Contact: contact/contact.md
 extra_css:
   - stylesheets/extra.css
