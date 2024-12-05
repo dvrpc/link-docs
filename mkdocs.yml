@@ -49,5 +49,7 @@ nav:
         - Sources: data/sources.md
     - Contact us:
       - Contact: contact/contact.md
+    - Submit changes:
+      - Submit changes to bike or ped network: contact/changes.md
 extra_css:
   - stylesheets/extra.css
