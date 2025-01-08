@@ -1,7 +1,14 @@
 ## Title VI 
-Title VI of the Civil Rights Act states that "no person in the United States, shall, on the grounds of race, color, or national origin be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving federal financial assistance.” Environmental Justice is defined by the federal government as, "identifying and addressing, as appropriate, disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations in the United States."
+Planning must be done with the involvement and for the benefit of all the region's residents. DVRPC is guided by federal Title VI and environmental justice mandates, and the Commission strives to not only meet these mandates, but to create an overall transparent, inclusive planning process. As the metropolitan planning organization (MPO) for the nine-county region, DVRPC is committed to making Title VI and environmental justice a part of our planning process, integrated in all our programs and plans, and a guide for our public participation efforts. On the horizon, we see a Delaware Valley with an enhanced quality of life and a healthful environment for all of its residents.
 
-Under Title VI of the Civil Rights Act and the Executive Order on Environmental Justice (#12898), Metropolitan Planning Organizations (MPOs) are directed to create a method for ensuring that equity issues are investigated and evaluated in transportation decision-making. There is additional guidance from the Federal Highway Administration’s (FHWA) Environmental Justice recommendations (2017), FHWA’s Title VI and Additional Nondiscrimination requirements (2017), Federal Transit Administration’s (FTA) Environmental Justice policy guidance (2012), and FTA’s Title VI requirements and guidelines (2012). 
+Title VI of the 1964 Civil Rights Act
+Title VI of the Civil Rights Act states that "no person in the United States, shall, on the grounds of race, color, or national origin be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving federal financial assistance."
+
+DVRPC, as the MPO for the Delaware Valley region, serves as the primary forum where state departments of transportation, transit providers, local agencies, and the public work together to develop local transportation plans and programs that address the region's needs. To meet the requirements of Title VI, the Commission must:
+
+Enhance its analytical capabilities to ensure that the Long-Range Plan and the Transportation Improvement Program (TIP) comply with Title VI;
+Identify residential, employment, and transportation patterns of low-income and minority populations so that their needs may be identified and addressed, and the benefits and burdens of transportation can be fairly distributed; and
+Evaluate and, where necessary, improve the public involvement process to eliminate barriers and engage minority, disabled, elderly, and low-income populations in regional decision-making.
 
 ## Contact Us
 
