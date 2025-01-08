@@ -27,14 +27,13 @@ Attributes are defined in the Study Results Definitions section below.
 for this metric, as this data is pulled from the DVRPC's crash API, and very long GeoJSON URL strings to the crash API are not supported.  
 - **Essential Services**: The number of essential service facilities within the area connected by the analyzed project. Essential services include grocery stores, schools, medical facilities, and activity centers for Seniors or Disabled people.
 - **Rail Stations**: Number and type of rail stations within the area connected by the analyzed project. 
-- **Greater than 300 miles of connected low-stress segments**: For areas such as Philadelphia or Trenton, where islands are extremely large. In these cases, islands are constrained to a 15-minute walk/bikeshed (depending on network type). 
-This means that all stats are also constrained to this walk/bikeshed.
+- **Greater than 300 miles of connected low-stress segments**:  For areas such as Philadelphia or Trenton, where islands are extremely large, islands are constrained to a 15-minute walk/bikeshed (depending on network type). This means that all stats are also constrained to this walk/bikeshed.
 
 ## Study Options
 
 The following options are available at the bottom of each study.
 
-- Delete Study: removes a study from your My Studies panel
+- Delete Study: removes a study from your My Studies panel.
 - Download GeoJSON: downloads spatial files in the geoJSON format, showing the segments associated with the study, the connected low-stress polygons, and the buffer around the study segments used in the analysis. These spatial files can be viewed in ArcGIS, QGIS, or other spatial analysis software for further analysis and map creation. The segments can also be uploaded into the LINK tool to be reanalyzed in the future.
 - View Study: centers the map on the selected study and shows the study segments and connected low-stress polygon.
 - Make Study Public toggle: When turned on, a shareable web page will be created. This page can be shared with others to view the segments, connected low-stress areas, and the connectivity benefit results. Viewers of the shared link are not required to have a LINK account.

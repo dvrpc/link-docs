@@ -22,7 +22,7 @@ After the analysis is complete, the map shows a blue line and a semi-transparent
 and the polygon highlights the low-stress areas connected by the proposed facility improvements.
 
 If you made a mistake, you can click on the line and grab the white circles to move the segment, extending it. You can also draw another line, but you should decide if you want your results to be 
-combined for both lines, or if you want separate results for each line. Read more in the [next section](/getting-started/analyzing-multiple-segments).
+combined for both lines, or if you want separate results for each line. Read more in the [next section](./analyzing-multiple-segments.md).
 
 To view the results of the analysis, you can open My Studies, where you'll see data about the segment and the low-stress areas it would connect.
 

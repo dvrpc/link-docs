@@ -2,8 +2,8 @@ This tool uses the concept of 'islands of connectivity,' the idea that low-stres
 
 Consider the following example. 
 The yellow, or relatively high-stress, segment (LTS 3) is an arterial
-road, with two lanes in each direction. The green, low-stress roads
-(LTS 1 or 2) are neighborhood streets, and are primarily residential.
+road with two lanes in each direction. The green, low-stress roads
+(LTS 1 or 2) are neighborhood streets and are primarily residential.
 
 ![Diagram of yellow road with green streets along it](../assets/explainer_diagrams/d1.png)
 

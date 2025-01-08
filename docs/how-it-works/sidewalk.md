@@ -1,13 +1,13 @@
-The exact same process is applied to sidewalks. 
+The process applied to the LTS network can also be aplied to sidewalks, with some differences.
 
 Rather than using LTS, islands on the pedestrian network are simply defined as places with sidewalks and marked crosswalks. 
 
 This example uses the same street, with only the pedestrian network visible. This location has a series of 
-sidewalks, and a marked crosswalk (on the left-most island, crossing our arterial road).
+sidewalks and a marked crosswalk (on the left-most island, crossing our arterial road).
 
 ![Diagram of a street shown with green sidewalks](../assets/explainer_diagrams/d9.png)
 
-Islands are defined as places where there are sidewalks or marked crosswalks, that are not connected to other sidewalks or marked crosswalks.
+Islands are defined as places where there are sidewalks or marked crosswalks that are not connected to other sidewalks or marked crosswalks.
 
 ![Sidewalks with outlines representing islands](../assets/explainer_diagrams/d10.png)
 
@@ -19,7 +19,7 @@ If a new segment is drawn to connect the two islands on the left, the number of 
 
 ![A new blue segment drawn between two islands, representing a new sidewalk or marked crosswalk](../assets/explainer_diagrams/d12.png)
 
-In this case, this new segment would connect approximately 180 people. 
+In this example, this new segment would connect approximately 180 people. 
 
 ![A new blue segment drawn between two islands, representing a new sidewalk or marked crosswalk](../assets/explainer_diagrams/d13.png)
 
